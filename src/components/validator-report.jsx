@@ -71,13 +71,7 @@ export function ValidatorReport({
 								NOTE: Extensions above are present in the model, but may or may not
 								be recognized by this viewer. Any "UNSUPPORTED_EXTENSION" warnings
 								below refer only to extensions that could not be scanned by the
-								validation suite, and may still have rendered correctly. See:{' '}
-								<a
-									href="https://github.com/donmccurdy/three-gltf-viewer/issues/122"
-									target="_blank"
-								>
-									three-gltf-viewer#122
-								</a>
+								validation suite, and may still have rendered correctly.
 								.
 							</i>
 						</p>

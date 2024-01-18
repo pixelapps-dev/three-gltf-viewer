@@ -10,25 +10,7 @@ export function Footer() {
 				three.js r{REVISION}
 			</a>
 
-			<span class="separator" aria-hidden="true">
-				|
-			</span>
 
-			<a
-				class="item"
-				target="_blank"
-				href="https://github.com/donmccurdy/three-gltf-viewer/issues/new"
-			>
-				help & feedback
-			</a>
-
-			<span class="separator" aria-hidden="true">
-				|
-			</span>
-
-			<a class="item" target="_blank" href="https://github.com/donmccurdy/three-gltf-viewer">
-				github
-			</a>
 		</footer>
 	);
 }

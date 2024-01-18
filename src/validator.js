@@ -201,7 +201,7 @@ export class Validator {
 			<link href="https://fonts.googleapis.com/css?family=Raleway:300,400" rel="stylesheet">
 			<link rel="stylesheet" href="{{location.protocol}}//{{location.host}}/style.css">
 			<style>
-				body { overflow-y: auto; }
+				body { overflow-y: auto; font-family: "Inter", sans-serif }
 				html, body { background: #FFFFFF; }
 			</style>
 			${ValidatorReport({ ...this.report, location })}`;
